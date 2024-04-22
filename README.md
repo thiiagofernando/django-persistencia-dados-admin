@@ -32,7 +32,7 @@ O que foi ensinado no curso:
     - Makemigrations e migrate
     - Faça como eu fiz
     - O que aprendemos?
-- Avançado no admin 1/7
+- Avançado no admin 7/7
     - Projeto da aula anterior
     - Personalizando o admin
     - Funcionalidade de publicação
