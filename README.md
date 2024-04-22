@@ -48,7 +48,7 @@ O que foi ensinado no curso:
     - Configurações do Admin
     - Faça como eu fiz
     - O que aprendemos?
-- Mecanismo de Busca | 0/10
+- Mecanismo de Busca | 1/10
     - Projeto da aula anterior
     - Funcionalidade buscar
     - View de buscar
